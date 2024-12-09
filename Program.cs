@@ -125,6 +125,8 @@ namespace StructuralPatternsExample
             }
         }
     }
+      
+
 
     class Program
     {
